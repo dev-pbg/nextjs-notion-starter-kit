@@ -18,7 +18,7 @@ export default siteConfig({
 
   // social usernames (optional)
   twitter: 'maybeprithvi',
-  github: 'transitive-bullshit',
+  //github: 'transitive-bullshit',
   linkedin: 'prithvibharadwaj',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
