@@ -3,6 +3,8 @@ import * as React from 'react'
 import styles from './styles.module.css'
 
 export const GitHubShareButton: React.FC = () => {
+  // Commenting out the entire code block
+  /*
   return (
     <a
       href='https://github.com/transitive-bullshit/nextjs-notion-starter-kit'
@@ -44,5 +46,6 @@ export const GitHubShareButton: React.FC = () => {
         />
       </svg>
     </a>
-  )
+  );
+  */
 }
